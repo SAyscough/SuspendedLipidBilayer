@@ -5,14 +5,14 @@ sophie.ayscough@ess.eu
 
  ![arXiv](https://img.shields.io/badge/Chemrxiv-10.26434%2Fchemrxiv--2022--250v6-red)
  
-ESI for "Suspended phospholipid bilayers: a new and versatile biological membrane model"
+## ESI for "Suspended phospholipid bilayers: a new and versatile biological membrane model"
 This is the Electronic supplmentary information for the article "Suspended phospholipid bilayers: a new and versatile biological membrane model". This ESI provides the data and models used for the analysis of neutron reflectivity data in the article.
 10.26434/chemrxiv-2022-250v6
 
+The full neutron reflectometry data set can be accesed at ISIS: 
+Dr Simon Titmuss et al; (2019): Lipid bilayers suspended beneath the air/water interface for neutron reflectivity investigation of mechanosensitive ion channels, STFC ISIS Neutron and Muon Source, https://doi.org/10.5286/ISIS.E.RB1910569-1
 
-Reduced neutron reflectivity data:
-
-For formation of first suspended bilayer:
+## For formation of first suspended bilayer:
 
 54578
 DODAB monolayer
@@ -47,7 +47,7 @@ After addition of 150 mM NaCl
 
 [Data file:54586_87.dat , Rascal fitting file: 586_87_bilanddiff.mat , model file:lipidapmmodel_bilayerhyd_diff_dodab.m] 
 
-For the second final formed bilayer
+## For the second final formed bilayer
 
 54696_97, 54699_00
 Bilayer measured with D2O and 42% D2O 58% H2O subphase.
