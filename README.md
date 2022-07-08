@@ -14,7 +14,6 @@ This is the Electronic supplmentary information for the article "Suspended phosp
 The full neutron reflectometry data set can be accesed at ISIS: 
 Dr Simon Titmuss et al; (2019): Lipid bilayers suspended beneath the air/water interface for neutron reflectivity investigation of mechanosensitive ion channels, STFC ISIS Neutron and Muon Source, https://doi.org/10.5286/ISIS.E.RB1910569-1
 
-[![graphabstract](https://raw.githubusercontent.com/SAyscough/SuspendedLipidBilayer/master/Figures/graphabstract.pdf)]
 
 ## For formation of first suspended bilayer:
 
@@ -57,3 +56,6 @@ After addition of 150 mM NaCl
 Bilayer measured with D2O and 42% D2O 58% H2O subphase.
 
 [Data files: 54696_97.dat, 54699_00.dat , Rascal fitting file: FinalAirWaterBil.mat , model file:volumemodel_sdodab_bilayeronly_300420.m] 
+
+## Acknowledgements
+We thank ISIS for use of the INTER reflectometer (DOI: 10.5286/ISIS.E.RB1910569) and user labs including the ISIS Biolabs and for use of the iS50 Thermo-Nicolet Fourier Transform Infrared Spectrometer (FT-IR). We also thank Diamond Light Source for beamtime on IO7 (SI22995-1) that allowed for further testing of trough design and bilayer assembly (data not shown in this paper), with special thanks to Jonathan Rawle Instrument Scientist and Andrew McCluskey for data fitting discussions. We would also like to thank Jacob Simms, senior mechanical support technician at ISIS for aiding in the design and fabrication of our final reflectometry trough design, in particular for the technical drawings. We thank the mechanical workshop in the School of Physics \& Astronomy, at the University of Edinburgh for fabrication of initial reflectometry trough prototypes. Sophie Ayscough was supported by the EPSRC CDT on ``Soft and Functional Interfaces'' (EP/L015536/1) and an ISIS Facility Development Studentship.
