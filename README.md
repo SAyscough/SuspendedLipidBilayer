@@ -14,7 +14,7 @@ This is the Electronic supplmentary information for the article "Suspended phosp
 The full neutron reflectometry data set can be accesed at ISIS: 
 Dr Simon Titmuss et al; (2019): Lipid bilayers suspended beneath the air/water interface for neutron reflectivity investigation of mechanosensitive ion channels, STFC ISIS Neutron and Muon Source, https://doi.org/10.5286/ISIS.E.RB1910569-1
 
-[![ToCFigure](https://raw.githubusercontent.com/SAyscough/SuspendedLipidBilayer/master/Figures/graphabstract.pdf)]
+[![graphabstract](https://raw.githubusercontent.com/SAyscough/SuspendedLipidBilayer/master/Figures/graphabstract.pdf)]
 
 ## For formation of first suspended bilayer:
 
