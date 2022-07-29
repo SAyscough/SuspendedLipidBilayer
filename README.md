@@ -8,7 +8,8 @@ sophie.ayscough@ess.eu
  
  
 ## ESI for "Suspended phospholipid bilayers: a new and versatile biological membrane model"
-This is the Electronic supplmentary information for the article "Suspended phospholipid bilayers: a new and versatile biological membrane model". This ESI provides the data and models used for the analysis of neutron reflectivity data in the article.
+This is the Electronic supplmentary information for the article "Suspended phospholipid bilayers: a new and versatile biological membrane model". This ESI provides the data and models used for the analysis of neutron reflectivity data in the article, and the Reflection Absorption Infrared Spectroscopy (RAIRS) Data displayed in the supplementary information. The RAIRS data is given as the integrated area of the CH$_2$/CD$_2$ asymmetric stretch bands against time. 
+
 10.26434/chemrxiv-2022-250v6
 
 The full neutron reflectometry data set can be accesed at ISIS: 
