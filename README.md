@@ -51,6 +51,8 @@ After addition of 150 mM NaCl
 
 [Data file:54586_87.dat , Rascal fitting file: 586_87_bilanddiff.mat , model file:lipidapmmodel_bilayerhyd_diff_dodab.m] 
 
+A seperate model for a single bilayer was shown in the supporting information of the paper to not fit these data sets. That model file is: [lipidapmmodel_singlebilayerhyd_dodab.m]
+
 ## For the second final formed bilayer
 
 **54696_97, 54699_00**
@@ -58,7 +60,7 @@ Bilayer measured with D2O and 42% D2O 58% H2O subphase.
 
 [Data files: 54696_97.dat, 54699_00.dat , Rascal fitting file: FinalAirWaterBil.mat , model file:volumemodel_sdodab_bilayeronly_300420.m] 
 
-The model for fitting the second final formed bilayer without describing a monolayer, fits shown in the supplementary information: [file:volumemodel_nododab_bilayeronly_300420.m]
+The model for fitting the second final formed bilayer without describing a monolayer, fits shown in the supplementary information: [model file:volumemodel_nododab_bilayeronly_300420.m]
 
 ## Acknowledgements
 We thank ISIS for use of the INTER reflectometer (DOI: 10.5286/ISIS.E.RB1910569) and user labs including the ISIS Biolabs and for use of the iS50 Thermo-Nicolet Fourier Transform Infrared Spectrometer (FT-IR). We also thank Diamond Light Source for beamtime on IO7 (SI22995-1) that allowed for further testing of trough design and bilayer assembly (data not shown in this paper), with special thanks to Jonathan Rawle Instrument Scientist and Andrew McCluskey for data fitting discussions. We would also like to thank Jacob Simms, senior mechanical support technician at ISIS for aiding in the design and fabrication of our final reflectometry trough design, in particular for the technical drawings. We thank the mechanical workshop in the School of Physics \& Astronomy, at the University of Edinburgh for fabrication of initial reflectometry trough prototypes. Sophie Ayscough was supported by the EPSRC CDT on ``Soft and Functional Interfaces'' (EP/L015536/1) and an ISIS Facility Development Studentship.
